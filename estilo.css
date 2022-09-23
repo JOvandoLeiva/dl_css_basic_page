@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    }
+
+    .banner{
+     background-image: url(../CSS/assets/ashe05.jpg);
+     background-repeat: no-repeat;
+     background-position: center;
+     height: 300px;
+     text-align: center;
+     font-size: xx-large;
+     padding-top: 3%;
+    }
+
+   img{
+
+    width: 600px;
+    height: 380px;
+   }
+
+   .skins{
+    width: 80%;
+    margin: auto;
+    
+   }
+   .skins td{
+    width: 50%;
+    padding: 1em;
+    
+    }
+
+   footer{
+    background-color:#ACC7F9;
+    padding: 1em;
+    text-align: center;
+
+   }
